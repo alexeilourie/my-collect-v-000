@@ -7,4 +7,3 @@ def my_collect(array)
   end
   arr1
 end
-
